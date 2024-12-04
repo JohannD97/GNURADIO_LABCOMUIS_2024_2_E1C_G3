@@ -4,13 +4,14 @@ En esta practica se realizaron modulaciones lineales AM con los parametros estab
 Esta practica nos ayudo a mejorar el manejo de los aparatos de medición (osciloscopio y espectrometro), y a poder tener un entendimiento claro del comportamiento de las señales cuando se estan variando los valores de la Amplitud del mensaje y la constante Ka.
 
 Modulación con KaAm=0.5
-![Señal coseno amplitud 1](KaAm=05.png)
-![Señal coseno amplitud 1](Measurement0024.png)
+![Señal coseno amplitud 11](P1/KaAm=05.png)
+
+![Señal coseno amplitud 12](P2/SCR13.PNG)
 
 Modulación con KaAm=1
-![Señal coseno amplitud 1](KaAm=1.png)
-![Señal coseno amplitud 1](Measurement0023.png)
+![Señal coseno amplitud 13](P1/KaAm=1.png)
+![Señal coseno amplitud 14](P2/SCR14.PNG)
 
 Modulación con KaAm=2
-![Señal coseno amplitud 1](KaAm=2.png)
-![Señal coseno amplitud 1](Measurement0022.png)
+![Señal coseno amplitud 15](P1/KaAm=2.png)
+![Señal coseno amplitud 16](P2/SCR12.PNG)
