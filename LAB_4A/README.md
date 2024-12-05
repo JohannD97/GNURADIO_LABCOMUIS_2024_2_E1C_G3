@@ -12,4 +12,5 @@ Acontinuacion una muestra de como se compilaron los datos recopilados
 
 esta practica fue interesante en la observacion de emisoras y otras modulaciones Fm y su captacion como en el segundo que se tomaron 5 principales y se les analizo en el analizador de espectro
 
+![señal de muestra1](L4A 2.jpg)
 ![señal de muestra1](L4A 2.png)
